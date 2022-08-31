@@ -23,4 +23,6 @@ What I came up with is a powershell script that reads the above parameters from 
 - list of channels you want to send the card to 
 
 In its basic form, it started and ended with a powershell script, a bunch of custom modules, the above mentioned module PsTeams and C# library wrapper which I inkvoke directly from the powershell script.
-When it came to adding the GUI things got more complicated but also more interesting. In fact, I had to add a blazor wasm app and webservice.
+When it came to adding the GUI things got more complicated but also more interesting. In fact, I had to add a blazor wasm app and a webservice.
+
+While the structure of the project is a bit convoluted I can assure you that it allows a user of any technical skill to send cards to a MS Teams in a matter of seconds and in a funny way.
