@@ -27,7 +27,9 @@ When it came to adding the GUI things got more complicated but also more interes
 
 While the structure of the project is a bit convoluted I can assure you that it allows a user of any technical skill to send cards to a MS Teams in a matter of seconds and in a funny way.
 
-## A few pictures of how it looks like
+## A few pictures of how it looks like at his full strength
+
+
 
 ## More in deep
 (coming soon...)
