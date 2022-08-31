@@ -1,4 +1,4 @@
-# PSRoids
+# PSCardsRage
 
 ## Antefact
 I'm expanding my powershell knowledge, as such I did not want a trivial bunch of scripts to work with and I came up with this absolutely insane project.
