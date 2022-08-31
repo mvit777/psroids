@@ -64,5 +64,8 @@ As far as the deps are concerned here a briefly schetched list:
     - ranx.common folder
     - team-messenger folder
 
-Obviously it is to much junk to usable in this state and a build&configure script is very much needed
+Obviously it is too much junk to be usable in this state and a build & configure script is very much needed.
+As soon it is ready I will release the rest of the code.
+But basically all the meat is in the powershell script itself and in the C# lib that handles the send command.
+The rest is just regular Blazor wasm + web service
 (coming soon...)
