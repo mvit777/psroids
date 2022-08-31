@@ -53,15 +53,15 @@ and this is what you get...
 ## More in deep
 As said the project has a lot of crazy dependcies and a bit of configuration (mainly Teams itself).
 As far as the deps are concerned here a briefly schetched list:
--PsTeams
--TeamsModule
--System.Management.Automation
--Setting up each channel with office connector
--Powershell.cmdlet c# library
--blazor-client.dll
--backend.dll
--bin folder with only
- -ranx.common folder
- -team-messenger folder
+- PsTeams
+- TeamsModule
+- System.Management.Automation
+- Setting up each channel with office connector
+- Powershell.cmdlet c# library
+- blazor-client.dll
+- backend.dll
+- bin folder with only
+ - ranx.common folder
+ - team-messenger folder
 
 (coming soon...)
