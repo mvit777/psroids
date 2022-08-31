@@ -19,5 +19,8 @@ New-ThumbnailCard -Title 'Bender' -SubTitle "tale of a robot who dared to love" 
 What I came up with is a powershell script that reads the above parameters from a json file (actually it is a yaml file that get automatically translated into json). It allows a user to specifiy interactively:
 - type of card
 - edit configuration file for the contents
-- to optionally use a blazor GUI to customise the contens or edit the directly in vscode
+- to optionally use a blazor GUI to customise the contents or edit them directly in vscode
 - list of channels you want to send the card to 
+
+In its basic form, it started and ended with a powershell script, a bunch of custom modules, the above mentioned module PsTeams and C# library wrapper which I inkvoke directly from the powershell script.
+When it came to adding the GUI things got more complicated but also more interesting. In fact, I had to add a blazor wasm app and webservice.
