@@ -1,9 +1,10 @@
 PsTeams
 TeamsModule
 System.Management.Automation
+Setting up each channel with office connector
 Powershell.cmdlet c# library
 blazor-client.dll
 backend.dll
 bin folder with only
-ranx.common folder
-team-messenger folder
+ -ranx.common folder
+ -team-messenger folder
