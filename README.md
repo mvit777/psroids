@@ -64,4 +64,5 @@ As far as the deps are concerned here a briefly schetched list:
     - ranx.common folder
     - team-messenger folder
 
+Obviously it is to much junk to usable in this state and a build&configure script is very much needed
 (coming soon...)
