@@ -61,7 +61,7 @@ As far as the deps are concerned here a briefly schetched list:
 - blazor-client.dll
 - backend.dll
 - bin folder with only
- - ranx.common folder
- - team-messenger folder
+    - ranx.common folder
+    - team-messenger folder
 
 (coming soon...)
