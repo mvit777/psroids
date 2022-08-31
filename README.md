@@ -67,5 +67,10 @@ As far as the deps are concerned here a briefly schetched list:
 Obviously it is too much junk to be usable in this state and a build & configure script is very much needed.
 As soon it is ready I will release the rest of the code.
 But basically all the meat is in the powershell script itself and in the C# lib that handles the send command.
-The rest is just regular Blazor wasm + web service
+The rest is just regular Blazor wasm + web service.
+
+The most notable thing is that the script runs smoothly inside vscode so I'm in doubt wheter to turn everything 
+into a single compact .exe or not. I admit that it looks tempting....
+
+
 (coming soon...)
