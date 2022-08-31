@@ -18,6 +18,6 @@ New-ThumbnailCard -Title 'Bender' -SubTitle "tale of a robot who dared to love" 
 ```
 What I came up with is a powershell script that reads the above parameters from a json file (actually it is a yaml file that get automatically translated into json). It allows a user to specifiy interactively:
 - type of card
-- configuration file for the contents
+- edit configuration file for the contents
 - to optionally use a blazor GUI to customise the contens or edit the directly in vscode
 - list of channels you want to send the card to 
