@@ -47,6 +47,8 @@ Use blazor gui to edit config file?
 and you create the card with the GUI, choose one or multiple channels and send the card
 ![gui](https://github.com/mvit777/psroids/blob/main/img/psroids_at_full.png)
 
+and this is what you get...
+![teams](https://github.com/mvit777/psroids/blob/main/img/teams.png)
 
 ## More in deep
 (coming soon...)
