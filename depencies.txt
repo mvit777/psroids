@@ -1,0 +1,9 @@
+PsTeams
+TeamsModule
+System.Management.Automation
+Powershell.cmdlet c# library
+blazor-client.dll
+backend.dll
+bin folder with only
+ranx.common folder
+team-messenger folder
