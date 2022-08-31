@@ -16,7 +16,7 @@ New-ThumbnailCard -Title 'Bender' -SubTitle "tale of a robot who dared to love" 
     New-ThumbnailButton -Type openUrl -Title 'I feel luck' -Value 'https://www.bing.com/images/search?q=bender&qpvt=bender&qpvt=bender&qpvt=bender&FORM=IGRE'
 } -Uri $Env:TEAMSPESTERID
 ```
-What I came up with is a powershell script that reads the above parameters from a json file (actually it is a yaml file that get automatically translated into json). In it basic form, it allows a user to specifiy interactively:
+What I came up with is a powershell script that reads the above parameters from a json file (actually it is a yaml file that get automatically translated into json). It allows a user to specifiy interactively:
 - type of card
 - configuration file for the contents
 - to optionally use a blazor GUI to customise the contens or edit the directly in vscode
