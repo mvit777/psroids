@@ -51,6 +51,8 @@ and you create the card with the GUI, choose one or multiple channels and send t
 and this is what you get...
 ![teams](https://github.com/mvit777/psroids/blob/main/img/teams.png)
 
+## The Workflow
+
 ## More in deep
 As said the project has a lot of crazy dependcies and a bit of configuration (mainly Teams itself).
 As far as the deps are concerned here a briefly schetched list:
