@@ -36,9 +36,10 @@ answer a couple of quick interactive questions
 ```powershell
 PS C:\Bin\Teams-Messenger> .\main.ps1
 
-cmdlet main.ps1 at command pipeline position 1
-Supply values for the following parameters:
-card_type: thumbnail
+choice
+select type of card
+[A] Adaptive  [L] List  [H] Hero  [T] Thumbnail  [?] Help (default is "A"): t
+Select the channels you want to send the card
 
 Confirm
 Use blazor gui to edit config file?
