@@ -39,9 +39,11 @@ PS C:\Bin\Teams-Messenger> .\main.ps1
 choice
 select type of card
 [A] Adaptive  [L] List  [H] Hero  [T] Thumbnail  [?] Help (default is "A"): t
+
 Select the channels you want to send the card
 Taxonomy 
 General
+
 Confirm
 Use blazor gui to edit config file?
 [Y] Yes  [N] No  [?] Help (default is "Y"):
