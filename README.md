@@ -55,7 +55,7 @@ and this is what you get...
 ![teams](https://github.com/mvit777/psroids/blob/main/img/teams.png)
 
 ## The Workflow
-
+![flowchart](https://github.com/mvit777/psroids/blob/main/img/flowchart.png)
 ## More in deep
 As said the project has a lot of crazy dependcies and a bit of configuration (mainly Teams itself).
 As far as the deps are concerned here a briefly schetched list:
