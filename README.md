@@ -27,7 +27,7 @@ When it came to adding the GUI things got more complicated but also more interes
 
 While the structure of the project is a bit convoluted I can assure you that it allows a user of any technical skill to send cards to a MS Teams in a matter of seconds and in a funny way.
 
-## A few pictures of how it looks like at his full strength
+## A few pictures of how it looks like at its full strength
 You just invoke with no arguments
 ```powershell
 PS C:\Bin\Teams-Messenger> .\main.ps1
@@ -57,7 +57,7 @@ and this is what you get...
 ## The Workflow
 ![flowchart](https://github.com/mvit777/psroids/blob/main/img/flowchart.png)
 ## More in deep
-As said the project has a lot of crazy dependcies and a bit of configuration (mainly Teams itself).
+As said the project has a lot of crazy dependencies and a bit of configuration (mainly Teams itself).
 As far as the deps are concerned here a briefly schetched list:
 - PsTeams
 - TeamsModule
