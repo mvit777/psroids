@@ -54,6 +54,9 @@ and you create the card with the GUI, choose one or multiple channels and send t
 and this is what you get...
 ![teams](https://github.com/mvit777/psroids/blob/main/img/teams.png)
 
+ckeditor is also available for HTML formatting
+![teams](https://github.com/mvit777/psroids/blob/main/img/gui_detail.png)
+
 ## The Workflow
 ![flowchart](https://github.com/mvit777/psroids/blob/main/img/flowchart.png)
 ## More in deep
