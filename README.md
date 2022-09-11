@@ -2,7 +2,7 @@
 
 ## Antefact
 I'm expanding my powershell knowledge, as such I did not want a trivial bunch of scripts to work with and I came up with this absolutely insane project.
-It does a lot of crazy stuff and along the way it sends cards to MS Teams channels.
+It does a lot of crazy stuff and along the way it sends cards to multiple MS Teams channels.
 
 ## Facts
 I stumbled across this [curated list of powershell resources](https://github.com/janikvonrotz/awesome-powershell) and my attention was caught by [this awesome library](https://github.com/EvotecIT/PSTeams) that sends cards to MS Teams. The library is supercool and works like charm but since I don't like to pass too many and too elaborated params on the command line, I start figuring out a simplier way to call the api and defining the content.
@@ -27,7 +27,7 @@ When it came to adding the GUI things got more complicated but also more interes
 
 While the structure of the project is a bit convoluted I can assure you that it allows a user of any technical skill to send cards to a MS Teams in a matter of seconds and in a funny way.
 
-## A few pictures of how it looks like at his full strength
+## A few pictures of how it looks like at its full strength
 You just invoke with no arguments
 ```powershell
 PS C:\Bin\Teams-Messenger> .\main.ps1
@@ -39,9 +39,11 @@ PS C:\Bin\Teams-Messenger> .\main.ps1
 choice
 select type of card
 [A] Adaptive  [L] List  [H] Hero  [T] Thumbnail  [?] Help (default is "A"): t
+
 Select the channels you want to send the card
 Taxonomy 
 General
+
 Confirm
 Use blazor gui to edit config file?
 [Y] Yes  [N] No  [?] Help (default is "Y"):
@@ -53,9 +55,9 @@ and this is what you get...
 ![teams](https://github.com/mvit777/psroids/blob/main/img/teams.png)
 
 ## The Workflow
-
+![flowchart](https://github.com/mvit777/psroids/blob/main/img/flowchart.png)
 ## More in deep
-As said the project has a lot of crazy dependcies and a bit of configuration (mainly Teams itself).
+As said the project has a lot of crazy dependencies and a bit of configuration (mainly Teams itself).
 As far as the deps are concerned here a briefly schetched list:
 - PsTeams
 - TeamsModule
