@@ -82,4 +82,4 @@ The most notable thing is that the script runs smoothly inside vscode so I'm in 
 into a single compact .exe or not. I admit that it looks tempting....
 
 
-(coming soon...)
+(coming soon the code and the installer...)
